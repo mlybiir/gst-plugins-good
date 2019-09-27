@@ -1,6 +1,5 @@
 ALWAYS_SUBDIRS =		\
 	gst sys ext 		\
-	tests			\
 	po			\
 	common			\
 	m4			\
